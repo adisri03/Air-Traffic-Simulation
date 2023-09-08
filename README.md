@@ -27,16 +27,16 @@ To run the simulation, you need to provide probabilities for each event and sub-
 ### Setting Probabilities
 You must set the following probabilities:
 
-Probability of a passenger boarding (P_boarding)
-Probability of a passenger arriving (P_arrival)
-Probability of a passenger being First Class (P_first_class)
-Probability of a passenger being Business Class (P_business_class)
-Probability of a passenger being Premium Economy (P_premium_economy)
-Probability of a passenger being Economy (P_economy)
-Probability of a passenger having COVID-19 (P_covid)
-Probability of a new flight (P_new_flight)
-Probability of a new flight being normal (P_normal_flight)
-Probability of a new flight being Air Force One (P_air_force_one_flight)
+1. Probability of a passenger boarding (P_boarding)
+2. Probability of a passenger arriving (P_arrival)
+3. Probability of a passenger being First Class (P_first_class)
+4. Probability of a passenger being Business Class (P_business_class)
+5. Probability of a passenger being Premium Economy (P_premium_economy)
+6. Probability of a passenger being Economy (P_economy)
+7. Probability of a passenger having COVID-19 (P_covid)
+8. Probability of a new flight (P_new_flight)
+9. Probability of a new flight being normal (P_normal_flight)
+10. Probability of a new flight being Air Force One (P_air_force_one_flight)
 
 ## Usage
 1. Compile the program using a Java compiler.
